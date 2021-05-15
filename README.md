@@ -4,8 +4,5 @@ Website With Animation
  Designed by Kant
 
 #Moving Car Using CSS Animation
-<img src="Screenshot (166).png">
-<embed src="20210516_011843.MP4">
-<video controls="controls" src="20210516_011843.MP4">
-    Moving Car Using CSS Animation
-</video>
+<a href="https://kant146.github.io/MOVING-CAR-ANIMATION--01/"><img src="Screenshot (166).png"></a>
+

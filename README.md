@@ -6,3 +6,6 @@ Website With Animation
 #Moving Car Using CSS Animation
 <img src="Screenshot (166).png">
 <embed src="20210516_011843.MP4">
+<video controls="controls" src="20210516_011843.MP4">
+    Moving Car Using CSS Animation
+</video>

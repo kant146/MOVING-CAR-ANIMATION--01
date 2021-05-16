@@ -6,3 +6,4 @@ Website With Animation
 #Moving Car Using CSS Animation
 <a href="https://kant146.github.io/MOVING-CAR-ANIMATION--01/"><img src="Screenshot (166).png"></a>
 
+<img src="moving-car.gif" alt="Flowers in Chania">
